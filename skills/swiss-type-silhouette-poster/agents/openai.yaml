@@ -1,0 +1,4 @@
+interface:
+  display_name: "瑞士风文字剪影海报 Skill"
+  short_description: "用微型英文文字构成二维剪影，按三种构图制作单张瑞士风极简广告海报。"
+  default_prompt: "请使用 $swiss-type-silhouette-poster，根据我提供的主题、品牌文案和颜色制作一张3:4竖版文字剪影海报。"
